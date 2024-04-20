@@ -34,5 +34,5 @@ build/
 pom.xml
 mvnw
 mvnw.cmd
+.metadata
 settings
-metadata
