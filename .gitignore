@@ -31,8 +31,4 @@ build/
 
 ### VS Code ###
 .vscode/
-.metadata
-pom.xml
-mvnw
-mvnw.cmd
 settings
